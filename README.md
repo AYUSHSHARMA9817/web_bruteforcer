@@ -18,7 +18,6 @@ A multi-threaded web brute force tool for testing login forms against password l
 ## 🛠️ Installation
 - ``` git clone https://github.com/yourusername/web-brute.git ```
 - ``` cd web-brute ```
-- ``` pip install -r requirements.txt ```
 
 ## ⚡ Usage
 - ``` python3 web_brute.py ```
